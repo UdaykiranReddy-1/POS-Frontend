@@ -37,7 +37,7 @@ To get the project running locally:
 Clone the repository:
 ```bash
 git clone '...url'
-cd blockzy
+cd 'folder name'
 ```
 Install dependencies:
 ```bash
