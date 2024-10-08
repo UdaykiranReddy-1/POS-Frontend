@@ -19,8 +19,11 @@ The Project aims to provide a simplified `UI+UX` for a end user to be able to un
 https://github.com/user-attachments/assets/937f58bf-12ee-47e1-b866-2e909ab5d9e5
 
 
-
-## Tech Stack - Nextjs
+## Tech Stack
+- Nextjs
+- Nodejs
+- Express
+- MongoDB
 
 ## Prerequisites
 Ensure you have the following installed:
